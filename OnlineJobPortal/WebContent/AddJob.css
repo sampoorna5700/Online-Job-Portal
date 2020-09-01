@@ -1,0 +1,28 @@
+.add-box{
+	 width: 600px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 40px 40px 90px;
+    background-color:#deebeb;
+    position: relative;
+    left:30%;
+    height:auto;
+    top:20px;
+}
+.table{
+	position:relative;
+	top:30px;
+	text-align: center;
+}
+h3{
+	left: 0px;
+    background-color:8ce9c1;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height:35px;
+}
+.job-description{
+	text-align: center;
+	color:red;
+}
